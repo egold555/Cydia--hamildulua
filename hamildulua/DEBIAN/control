@@ -1,0 +1,10 @@
+Package: org.golde.cydia.Ringtone.hamildulua
+Name: Hamildulua Ringtone
+Author: Eric Golde
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Installs a ringtone
+Homepage: http://eric.golde.org/cydia
+Maintainer: Eric Golde
+Section: ECR_Ringtones
+Depends: com.unlimapps.toneenabler
